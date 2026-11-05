@@ -117,7 +117,7 @@ The results confirmed that the Ubuntu machine could communicate with the Metaspl
 
 ### Evidence
 
-![Ping connectivity test](../evidence/screenshots/ping-connectivity.png)
+![Ping connectivity test](../evidence/screenshots/host-discovery.png)
 
 ---
 
@@ -159,7 +159,7 @@ The latency value provided an indication of how quickly the target responded to 
 
 ### Evidence
 
-![Nmap host discovery](../evidence/screenshots/nmap-host-discovery.png)
+![Nmap host discovery](../evidence/screenshots/host-discovery.png)
 
 ---
 
